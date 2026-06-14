@@ -75,7 +75,7 @@ public class InventoryManagementSystem {
 
                 case 9:
                     System.out.println(
-                            "Thank you for using Inventory Management System.");
+                            "Thank you for using Inventory Management System.\nDeveloped by Amrit Chandan Mishra");
                     break;
 
                 default:
