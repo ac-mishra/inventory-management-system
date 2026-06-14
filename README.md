@@ -10,11 +10,11 @@ The application helps users manage inventory efficiently by supporting product m
 
 ## UML Diagram
 
-![UML Diagram](UML-Diagram.png)
+![UML Diagram](uml-diagram.png)
 
 ## Flowchart
 
-![Flowchart](Flowchart.png)
+![Flowchart](flowchart.png)
 ## Features
 
 ### Product Management
